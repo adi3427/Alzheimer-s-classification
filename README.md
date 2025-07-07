@@ -28,8 +28,7 @@ alzheimers-xai-ml/
 │   ├── data_utils.py
 │   ├── eda_utils.py
 │   ├── model_utils.py
-│   └── explainability_utils.py
-├── outputs/                 # Plots, saved models etc.
+│   └── explainability_utils.py                
 ├── requirements.txt         # Python dependencies
 ├── README.md                # 📖 This file
 └── .gitignore
